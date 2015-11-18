@@ -1,5 +1,5 @@
-I am trying to fix a bug the configuration "lan_access_ip" does not work 
-==
+This fork is for repairing a bug that the configuration "lan_access_ip" does not work.
+===
 
 Shadowsocks-libev for OpenWrt
 ===
